@@ -34,5 +34,10 @@
     "src": "https://1.bp.blogspot.com/-Xfc_Wqq_FTY/XYZZ_bSeyoI/AAAAAAAAF4I/5QMucQg3C0spPxI0kLkr5Pji2LA9a4qsACNcBGAsYHQ/s512/android-chrome-512x512.png",
     "sizes": "512x512",
     "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Xfc_Wqq_FTY/XYZZ_bSeyoI/AAAAAAAAF4I/5QMucQg3C0spPxI0kLkr5Pji2LA9a4qsACNcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+    "purpose": "any maskable"
   }]
 }
